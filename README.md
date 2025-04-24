@@ -7,3 +7,5 @@ Great way to start your day with motivation!
 ## Usage
 Just run the script and get inspired!
 
+# daily_quote_generator
+Python script to print a new quote daily
